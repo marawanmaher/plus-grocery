@@ -1,0 +1,1083 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Year Code,Year,Months Code,Months,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,,#indicator+name,,,,#date+year,,,#indicator+type,#indicator+value+num,
+OMN,01/01/2011,31/12/2011,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,125,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,125.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,231.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,192.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,272.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,272.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,272.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,272.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,272.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,486,'01312,Bananas,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,272.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,125,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,125.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,231.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,192.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,272.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,272.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,272.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,272.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,272.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,486,'01312,Bananas,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,272.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,325.1,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,325.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,602.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,501.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,709.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,709.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,709.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,709.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,709.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,486,'01312,Bananas,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,709.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,53.78,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,53.9,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,76.79,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,99.67,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,82.94,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,117.38,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,117.38,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,117.38,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,117.38,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,117.38,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,117.38,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,486,'01312,Bananas,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,117.38,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,57.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,52.6,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,57.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,81.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,81.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,81.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,81.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,59.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,44,'0115,Barley,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,59.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,57.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,52.6,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,57.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,81.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,81.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,81.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,81.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,59.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,44,'0115,Barley,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,59.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,149.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,136.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,148.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,213,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,213,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,213,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,213,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,154.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,44,'0115,Barley,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,154.2,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,90.01,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,86.18,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,82.35,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,89.39,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,128.26,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,128.26,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,128.26,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,128.26,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,92.88,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,92.88,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,44,'0115,Barley,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,80.22,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,81,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,81.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,58.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,79.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,117.6,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,117.6,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,117.6,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,117.6,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,159.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,358,'01212,Cabbages,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,159.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,81,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,81.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,58.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,79.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,117.6,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,117.6,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,117.6,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,117.6,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,159.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,358,'01212,Cabbages,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,159.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,210.7,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,211.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,151.8,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,206.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,305.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,305.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,305.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,305.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,414.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,358,'01212,Cabbages,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,414.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,95.22,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,95.57,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,82.09,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,68.6,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,93.17,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,138.23,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,138.23,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,138.23,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,138.23,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,187.49,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,187.49,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,358,'01212,Cabbages,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,205.12,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,158,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,157.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,188,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,196.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,157.6,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,157.6,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,157.6,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,157.6,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,151.6,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,568,'01229,Cantaloupes and other melons,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,151.6,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,158,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,157.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,188,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,196.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,157.6,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,157.6,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,157.6,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,157.6,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,151.6,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,568,'01229,Cantaloupes and other melons,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,151.6,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,410.9,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,410.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,488.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,512.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,410,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,410,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,410,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,410,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,394.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,568,'01229,Cantaloupes and other melons,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,394.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,87.37,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,87.24,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,95.59,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,103.95,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,108.88,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,87.17,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,87.17,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,87.17,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,87.17,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,83.83,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,83.83,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,568,'01229,Cantaloupes and other melons,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,82.64,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,400,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,775.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,130.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,158.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,152,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,152,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,152,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,152,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,145.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,426,'01251,Carrots and turnips,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,145.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,400,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,775.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,130.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,158.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,152,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,152,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,152,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,152,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,145.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,426,'01251,Carrots and turnips,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,145.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,1040.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,2017.2,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,339.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,412.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,395.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,395.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,395.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,395.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,378.4,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,426,'01251,Carrots and turnips,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,378.4,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,272.01,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,527.43,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,308.15,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,88.88,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,107.76,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,103.36,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,103.36,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,103.36,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,103.36,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,98.94,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,98.94,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,426,'01251,Carrots and turnips,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,97.36,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,137,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,137.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,146.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,239.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,239.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,239.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,239.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,238.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,238.1,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,137,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,137.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,146.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,239.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,239.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,239.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,239.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,238.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,238.1,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,356.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,357.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,381.7,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,623.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,623.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,623.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,623.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,619.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,619.2,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,77.5,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,77.75,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,79.51,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,81.27,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,83.02,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,135.71,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,135.71,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,135.71,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,135.71,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,134.69,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,134.69,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,393,'01213,Cauliflowers and broccoli,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,134.33,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,218,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,233.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,194.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,214.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,250.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,250.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,250.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,250.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,356.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,356.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,218,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,233.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,194.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,214.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,250.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,250.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,250.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,250.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,356.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,356.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,567,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,607.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,506.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,557.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,652.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,652.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,652.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,652.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,927.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,927.2,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,99.08,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,106.13,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,97.31,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,88.49,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,97.49,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,114.01,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,114.01,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,114.01,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,114.01,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,162.04,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,162.04,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,401,'01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,179.21,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,150,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,150.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,147.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,134.7,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,173.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,173.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,173.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,173.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,161.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,397,'01232,Cucumbers and gherkins,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,161.7,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,150,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,150.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,147.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,134.7,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,173.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,173.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,173.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,173.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,161.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,397,'01232,Cucumbers and gherkins,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,161.7,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,390.1,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,391.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,382.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,350.2,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,450.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,450.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,450.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,450.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,420.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,397,'01232,Cucumbers and gherkins,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,420.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,98.91,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,99.2,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,98.1,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,96.99,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,88.79,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,114.23,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,114.23,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,114.23,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,114.23,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,106.62,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,106.62,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,397,'01232,Cucumbers and gherkins,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,103.9,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,117,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,117.2,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,100.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,109.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,156,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,156,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,156,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,156,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,168,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,399,'01233,Eggplants (aubergines),5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,168,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,117,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,117.2,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,100.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,109.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,156,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,156,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,156,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,156,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,168,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,399,'01233,Eggplants (aubergines),5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,168,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,304.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,304.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,260.3,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,284.2,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,405.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,405.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,405.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,405.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,436.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,399,'01233,Eggplants (aubergines),5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,436.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,96.06,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,96.22,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,89.19,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,82.16,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,89.73,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,128.1,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,128.1,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,128.1,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,128.1,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,137.94,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,137.94,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,399,'01233,Eggplants (aubergines),5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,141.46,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,1224,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,1223.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,396,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,1910.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,1164.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,1164.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,1164.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,1164.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,1743.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,406,'01252,Green garlic,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,1743.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,1224,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,1223.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,396,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,1910.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,1164.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,1164.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,1164.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,1164.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,1743.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,406,'01252,Green garlic,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,1743.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,3183.4,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,3182.1,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,1029.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,4968.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,3029.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,3029.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,3029.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,3029.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,4534.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,406,'01252,Green garlic,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,4534.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,105.78,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,105.74,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,69.98,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,34.22,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,165.11,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,100.67,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,100.67,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,100.67,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,100.67,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,150.68,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,150.68,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,406,'01252,Green garlic,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,168.57,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,560,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,559.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,267.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,694.2,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,516.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,516.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,516.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,516.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,516.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,497,'01322,Lemons and limes,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,516.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,560,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,559.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,267.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,694.2,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,516.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,516.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,516.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,516.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,516.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,497,'01322,Lemons and limes,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,516.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,1456.4,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,1455.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,694.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,1805.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,1342.7,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,1342.7,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,1342.7,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,1342.7,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,1342.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,497,'01322,Lemons and limes,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,1342.7,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,113.69,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,113.62,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,83.93,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,54.25,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,140.94,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,104.81,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,104.81,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,104.81,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,104.81,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,104.81,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,104.81,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,497,'01322,Lemons and limes,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,104.81,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,120.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,170.8,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,89,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,214.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,214.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,214.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,214.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,96.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,96.1,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,120.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,170.8,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,89,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,214.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,214.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,214.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,214.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,96.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,96.1,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,313.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,444.3,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,231.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,557.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,557.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,557.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,557.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,249.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,249.9,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,76.21,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,92.14,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,108.06,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,56.26,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,135.68,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,135.68,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,135.68,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,135.68,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,60.78,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,60.78,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,56,'0112,Maize (corn),5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,33.99,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,528,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,527.7,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,228.8,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,666.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,657.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,657.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,657.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,657.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,657.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,657.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,528,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,527.7,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,228.8,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,666.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,657.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,657.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,657.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,657.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,657.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,657.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,1373.2,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,1372.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,595.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,1732.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,1709.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,1709.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,1709.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,1709.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,1709.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,1709.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,102.05,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,101.99,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,73.1,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,44.22,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,128.74,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,127.04,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,127.04,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,127.04,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,127.04,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,127.04,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,127.04,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,571,'01316,"Mangoes, guavas and mangosteens",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,127.04,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,303.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,90.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,90.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,90.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,90.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,76.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,75,'0117,Oats,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,76.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,303.5,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,90.3,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,90.3,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,90.3,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,90.3,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,76.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,75,'0117,Oats,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,76.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,789.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,234.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,234.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,234.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,234.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,199.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,75,'0117,Oats,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,199.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,154.13,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,45.87,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,45.87,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,45.87,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,45.87,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,38.95,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,38.95,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,75,'0117,Oats,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,36.48,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,280,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,280.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,514.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,262.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,383.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,383.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,383.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,383.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,519.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,430,'01239.01,Okra,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,519.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,280,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,280.3,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,514.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,262.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,383.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,383.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,383.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,383.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,519.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,430,'01239.01,Okra,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,519.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,728.2,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,729.1,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,1337.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,682.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,997.1,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,997.1,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,997.1,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,997.1,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,1352.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,430,'01239.01,Okra,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,1352.1,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,72.42,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,72.51,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,102.76,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,133,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,67.83,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,99.16,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,99.16,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,99.16,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,99.16,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,134.47,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,134.47,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,430,'01239.01,Okra,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,147.1,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,53,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,52.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,132.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,241.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,200.1,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,200.1,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,200.1,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,200.1,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,374.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,374.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,53,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,52.6,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,132.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,241.1,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,200.1,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,200.1,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,200.1,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,200.1,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,374.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,374.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,137.8,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,136.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,343.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,627,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,520.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,520.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,520.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,520.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,974.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,974.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,27.74,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,27.53,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,48.33,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,69.12,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,126.17,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,104.71,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,104.71,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,104.71,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,104.71,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,196.15,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,196.15,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,403,'01253.02,"Onions and shallots, dry (excluding dehydrated)",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,228.86,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,309,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,309.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,380.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,198.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,198.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,198.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,198.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,198.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,600,'01317,Papayas,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,198.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,309,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,309.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,380.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,198.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,198.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,198.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,198.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,198.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,600,'01317,Papayas,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,198.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,803.6,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,804.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,989.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,517.1,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,517.1,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,517.1,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,517.1,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,517.1,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,600,'01317,Papayas,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,517.1,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,99.02,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,99.09,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,106.71,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,114.33,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,121.95,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,63.71,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,63.71,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,63.71,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,63.71,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,63.71,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,63.71,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,600,'01317,Papayas,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,63.71,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,90,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,90.1,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,153.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,137.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,138.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,138.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,138.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,138.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,130.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,130.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,90,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,90.1,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,153.2,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,137.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,138.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,138.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,138.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,138.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,130.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,130.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,234.1,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,234.2,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,398.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,358.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,361.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,361.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,361.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,361.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,338.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,338.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,62.81,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,62.85,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,84.88,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,106.91,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,96.17,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,96.92,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,96.92,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,96.92,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,96.92,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,90.94,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,90.94,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,116,'01510,Potatoes,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,88.8,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,106,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,103.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,103.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,111.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,115.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,115.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,115.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,115.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,152.6,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,152.6,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,106,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,103.4,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,103.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,111.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,115.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,115.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,115.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,115.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,152.6,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,152.6,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,275.7,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,268.9,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,269.1,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,290.4,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,299.7,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,299.7,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,299.7,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,299.7,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,396.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,396.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,96.27,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,93.91,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,93.94,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,93.96,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,101.4,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,104.65,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,104.65,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,104.65,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,104.65,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,138.6,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,138.6,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,394,'01235,"Pumpkins, squash and gourds",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,150.74,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,50,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,41,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,50,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,50,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,50,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,50,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,45.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,45.7,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,50,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,41,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,50,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,50,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,50,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,50,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,45.7,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,45.7,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,130,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,106.5,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,130,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,130,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,130,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,130,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,118.9,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,118.9,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,97.77,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,80.07,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,85.98,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,91.87,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,97.77,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,110.36,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,97.77,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,97.77,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,97.77,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,89.36,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,89.36,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,83,'0114,Sorghum,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,86.36,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,81,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,35.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,37,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,37,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,37,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,37,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,37,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,156,'01802,Sugar cane,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,37,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,81,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,35.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,37,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,37,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,37,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,37,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,37,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,156,'01802,Sugar cane,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,37,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,210.7,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,91.8,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,96.2,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,96.2,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,96.2,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,96.2,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,96.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,156,'01802,Sugar cane,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,96.2,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,222.14,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,159.45,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,96.78,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,101.75,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,101.47,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,101.47,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,101.47,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,101.47,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,101.47,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,101.47,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,156,'01802,Sugar cane,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,101.47,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,82,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,81.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,91.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,99.7,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,126.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,126.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,126.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,126.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,131.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,388,'01234,Tomatoes,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,131.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,82,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,81.5,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,91.9,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,99.7,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,126.4,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,126.4,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,126.4,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,126.4,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,131.3,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,388,'01234,Tomatoes,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,131.3,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,213.3,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,212.1,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,239,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,259.3,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,328.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,328.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,328.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,328.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,341.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,388,'01234,Tomatoes,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,341.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,77.35,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,76.92,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,81.81,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,86.7,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,94.05,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,119.25,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,119.25,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,119.25,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,119.25,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,123.85,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,123.85,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,388,'01234,Tomatoes,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,125.5,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,64,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,63.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2014,2014,7021,Annual value,LCU,84.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,111.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,114.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,114.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,114.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,114.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,82.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,567,'01221,Watermelons,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,82.2,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,64,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,63.8,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2014,2014,7021,Annual value,SLC,84.7,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,111.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,114.9,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,114.9,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,114.9,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,114.9,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,82.2,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,567,'01221,Watermelons,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,82.2,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,166.4,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,165.9,A
+OMN,01/01/2014,31/12/2014,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2014,2014,7021,Annual value,USD,220.3,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,290.9,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,298.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,298.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,298.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,298.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,213.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,567,'01221,Watermelons,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,213.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,61.64,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,61.43,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,71.51,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,81.6,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,107.74,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,110.67,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,110.67,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,110.67,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,110.67,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,79.17,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,79.17,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,567,'01221,Watermelons,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,67.9,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2011,2011,7021,Annual value,LCU,450,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2012,2012,7021,Annual value,LCU,450,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2015,2015,7021,Annual value,LCU,434.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2016,2016,7021,Annual value,LCU,357.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2017,2017,7021,Annual value,LCU,357.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2018,2018,7021,Annual value,LCU,357.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2019,2019,7021,Annual value,LCU,357.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,357.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,357.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2011,2011,7021,Annual value,SLC,450,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2012,2012,7021,Annual value,SLC,450,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2015,2015,7021,Annual value,SLC,434.6,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2016,2016,7021,Annual value,SLC,357.5,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2017,2017,7021,Annual value,SLC,357.5,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2018,2018,7021,Annual value,SLC,357.5,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2019,2019,7021,Annual value,SLC,357.5,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,357.5,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,357.5,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2011,2011,7021,Annual value,USD,1170.4,A
+OMN,01/01/2012,31/12/2012,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2012,2012,7021,Annual value,USD,1170.4,A
+OMN,01/01/2015,31/12/2015,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2015,2015,7021,Annual value,USD,1130.2,A
+OMN,01/01/2016,31/12/2016,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2016,2016,7021,Annual value,USD,929.8,A
+OMN,01/01/2017,31/12/2017,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2017,2017,7021,Annual value,USD,929.8,A
+OMN,01/01/2018,31/12/2018,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2018,2018,7021,Annual value,USD,929.8,A
+OMN,01/01/2019,31/12/2019,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2019,2019,7021,Annual value,USD,929.8,A
+OMN,01/01/2020,31/12/2020,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,929.8,A
+OMN,01/01/2021,31/12/2021,221,'512,Oman,15,'0111,Wheat,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,929.8,A
+OMN,01/01/2011,31/12/2011,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,109.6,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,109.6,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,108.34,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,107.09,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,105.84,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,87.07,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,87.07,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,87.07,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,87.07,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,87.07,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,87.07,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,15,'0111,Wheat,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,87.07,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,78.11,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,81.87,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,80.2,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,78.53,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,101.04,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,113.03,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,118.31,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,118.31,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,118.31,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,124.24,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,124.24,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,2051,'F2051,Agriculture,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,126.37,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,67.52,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,86.49,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,93.53,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,100.56,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,86.49,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,112.95,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,107.79,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,107.79,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,107.79,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,79.86,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,79.86,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1717,'F1717,"Cereals, primary",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,69.86,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,113.69,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,113.62,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,83.93,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,54.25,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,140.94,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,104.81,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,104.81,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,104.81,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,104.81,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,104.81,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,104.81,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1804,'F1804,"Citrus Fruit, Total",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,104.81,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,53.46,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,78.77,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,88.58,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,98.37,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,80.03,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,121.6,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,114.71,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,114.71,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,114.71,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,77.45,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,77.45,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1814,'F1814,"Coarse Grain, Total",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,64.12,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,91.79,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,91.79,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,79.91,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,68.02,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,118.78,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,113.19,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,113.19,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,113.19,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,113.19,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,113.19,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,113.19,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1801,'F1801,"Fruit excl Melons, Total",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,113.19,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,88.88,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,88.84,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,81.19,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,73.54,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,116.69,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,109.77,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,109.77,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,109.77,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,109.77,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,106.89,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,106.89,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1738,'F1738,Fruit Primary,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,105.86,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,84.06,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,115.94,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,193.24,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,193.24,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,193.24,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,193.24,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,193.24,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,2044,'F2044,Livestock,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,193.24,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,62.81,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,62.85,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,84.88,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,106.91,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,96.17,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,96.92,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,96.92,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,96.92,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,96.92,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,90.94,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,90.94,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1720,'F1720,"Roots and Tubers, Total",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,88.8,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,85.91,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,89.81,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,88.79,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,87.77,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,96.51,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,115.72,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,115.72,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,115.72,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,115.72,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,134.7,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,134.7,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1735,'F1735,Vegetables Primary,5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,141.5,I
+OMN,01/01/2011,31/12/2011,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2011,2011,7021,Annual value,,84.94,I
+OMN,01/01/2012,31/12/2012,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2012,2012,7021,Annual value,,88.38,I
+OMN,01/01/2013,31/12/2013,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2013,2013,7021,Annual value,,88.5,I
+OMN,01/01/2014,31/12/2014,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2014,2014,7021,Annual value,,88.62,I
+OMN,01/01/2015,31/12/2015,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2015,2015,7021,Annual value,,97.86,I
+OMN,01/01/2016,31/12/2016,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2016,2016,7021,Annual value,,113.52,I
+OMN,01/01/2017,31/12/2017,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2017,2017,7021,Annual value,,113.52,I
+OMN,01/01/2018,31/12/2018,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2018,2018,7021,Annual value,,113.52,I
+OMN,01/01/2019,31/12/2019,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2019,2019,7021,Annual value,,113.52,I
+OMN,01/01/2020,31/12/2020,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2020,2020,7021,Annual value,,128.74,I
+OMN,01/01/2021,31/12/2021,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2021,2021,7021,Annual value,,128.74,I
+OMN,01/01/2022,31/12/2022,221,'512,Oman,1800,'F1800,"Vegetables&Melons, Total",5539,Producer Price Index (2014-2016 = 100),2022,2022,7021,Annual value,,134.19,I
